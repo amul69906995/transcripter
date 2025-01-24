@@ -2,7 +2,8 @@
 
 ## Description
 The YT Transcript Chrome Extension allows users to fetch the transcript of a YouTube video. Users can either enter the video URL manually or grab the URL of the currently playing video.
-
+### DEMO VIDEO
+[Download Demo Video](./f133-a064-4b9d-a162-6a98e0bf0014%20(1).mp4)
 ## Features
 - Fetch transcript of a YouTube video by entering the URL.
 - Grab the URL of the currently playing YouTube video.
